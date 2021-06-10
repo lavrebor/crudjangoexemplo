@@ -1,0 +1,1 @@
+https://efficientcoder.net/django-3-tutorial-and-crud-example-with-mysql-and-bootstrap/
